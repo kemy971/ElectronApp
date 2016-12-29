@@ -23,7 +23,7 @@
     "babel-preset-env": "^1.1.4",
     "babel-preset-react": "^6.16.0",
     "css-loader": "^0.26.1",
-    "electron": "^1.4.1",
+    "electron": "^1.4.13",
     "style-loader": "^0.13.1",
     "webpack": "^1.14.0"
   },

@@ -1,8 +1,8 @@
-import * as React from 'react';
-import * as ReactDom from 'react-dom';
+import * as React from 'react'
+import * as ReactDom from 'react-dom'
 
-import {App} from './App.jsx';
-import style from './css/style.css';
+import App from './App.jsx'
+import style from './css/style.css'
 
 
 var element = React.createElement(App, {});
