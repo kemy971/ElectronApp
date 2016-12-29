@@ -1,16 +1,9 @@
-var React = require('react');
-var PropTypes = React.PropTypes;
+import * as React from 'react'
 
-var App = React.createClass({
-
-  render: function() {
+export default class App extends React.Component{
+  render(){
     return (
-      <div>
-        <h1>Test</h1>
-      </div>
-    );
+      <div>Test</div>
+    )
   }
-
-});
-
-module.exports = App;
+}
